@@ -1,2 +1,5 @@
 # Price_is_Right
-Stuff for Price is Right Project
+
+Data taken from 978 rounds of "One Bid" from 953 different episodes of "The Price is Right" is located within the spreadsheet.
+
+Code written to calculate percentage of winners by position, relative bid value and other stats are located in python file.
